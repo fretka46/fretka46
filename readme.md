@@ -1,6 +1,4 @@
-<img align="right" width="60%" alt="Statistics" src="https://readme-stats-breno.vercel.app/api?username=fretka46&show_icons=true&hide=stars,prs,issues&hide_rank=true&include_all_commits=true&rank_icon=github&theme=transparent">
-<br>
-<img align="right" width="60%" alt="Languages" src="https://readme-stats-breno.vercel.app/api/top-langs/?username=fretka46&layout=donut-vertical&theme=transparent">
+<img align="right" width="60%" alt="Statistics" src="https://readme-stats-breno.vercel.app/api?username=fretka46&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=transparent">
 
 ### -- Disclaimer --
 
